@@ -6,4 +6,4 @@ decision tree is incrementally developed. The final result is a tree with decisi
 
 A decision node has two or more branches, each representing values for the attribute tested. Leaf node 
 represents a decision on the numerical target. The topmost decision node in a tree which corresponds to 
-the best predictor called root node. Decision trees can handle both categorical and numerical data. 
+the best predictor called root node. Decision trees can handle both categorical and numerical data.
